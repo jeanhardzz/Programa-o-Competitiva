@@ -1,2 +1,2 @@
-# Programa-o-Competitiva
+# Programação Competitiva
 Minhas soluções dos problemas da plataforma URI JUDGE
